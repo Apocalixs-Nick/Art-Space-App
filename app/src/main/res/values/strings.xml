@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="budva">Budva</string>
+    <string name="budva_artist">Mario Verdi</string>
+    <string name="budva_year">(2022)</string>
+
+    <string name="cracovia">Cracovia</string>
+    <string name="cracovia_artist">Paolo Giallo</string>
+    <string name="cracovia_year">(2021)</string>
+
+    <string name="luibiana">Luibiana</string>
+    <string name="luibiana_artist">Alfredo Rossi</string>
+    <string name="luibiana_year">(2020)</string>
+</resources>
